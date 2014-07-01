@@ -1,0 +1,10 @@
+<kpartgui version="1" name="kwrite">
+  <ActionProperties>
+    <Action shortcut="Ctrl+W; Ctrl+Esc" name="file_close"/>
+    <Action shortcut="Ctrl+N" name="file_new"/>
+    <Action shortcut="Ctrl+O" name="file_open"/>
+    <Action shortcut="Ctrl+Q" name="file_quit"/>
+    <Action shortcut="F1" name="help_contents"/>
+    <Action shortcut="Shift+F1" name="help_whats_this"/>
+  </ActionProperties>
+</kpartgui>
