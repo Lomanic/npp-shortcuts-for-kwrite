@@ -28,8 +28,8 @@ Place these two files `katepartnotepad++shortcuts.rc` and `kwritenotepad++shortc
 |                                                    | Find (volatil) Previous  (not implemented in KWrite)             |
 |                                                    | Incremental Search (not implemented in KWrite)                   |
 | Ctrl-S                                             | Save File                                                        |
-| Ctrl-Alt-S                                         | Save As                                                          |
-| Ctrl-Shft-S                                        | Save All                                                         |
+| Ctrl-Shft-S                                        | Save As                                                          |
+| Ctrl-Alt-S                                         | Save All                                                         |
 | Ctrl-O                                             | Open File                                                        |
 | Ctrl-N                                             | New File                                                         |
 | Ctrl-Shft-F2                                       | Toggle Bookmark (Ctrl-F2 already used to virtual desktop 2)      |
@@ -43,7 +43,7 @@ Place these two files `katepartnotepad++shortcuts.rc` and `kwritenotepad++shortc
 | Alt-Space                                          | Launch Word Completion ListBox                                   |
 | Tab (selection of several lines)                   | Insert Tabulation or Space (Indent)                              |
 | Shft-Tab (selection of several lines)              | Remove Tabulation or Space (outdent)                             |
-| Ctrl-(Keypad-/Keypad+) or Ctrl + mouse wheel butto | Zoom in (+ or up) and Zoom out (- or down)                       |
+| Ctrl-(Keypad-/Keypad+) or Ctrl + mouse wheel button | Zoom in (+ or up) and Zoom out (- or down)                       |
 | Ctrl-Keypad/                                       | Restore the original size from zoom                              |
 | F11                                                | Toggle Full Screen Mode                                          |
 | Ctrl-Tab                                           | Next Document                                                    |
@@ -62,17 +62,19 @@ Place these two files `katepartnotepad++shortcuts.rc` and `kwritenotepad++shortc
 | Ctrl-Shft-Delete                                   | Delete to end of line                                            |
 | Ctrl-U                                             | Convert to lower case                                            |
 | Ctrl-Shft-U                                        | Convert to UPPER CASE                                            |
-| Ctrl-Alt-U                                         | Convert to Upper Case Every First Letter*                        |
+| Ctrl-Alt-U                                         | Convert to Upper Case Every First Letter (not implemented in Notepad++) |
 | Ctrl-B                                             | Go to matching brace                                             |
 | Ctrl-Shft-R                                        | Start to record /Stop recording the macro                        |
 | Ctrl-Shft-P                                        | Play recorded macro                                              |
 | Ctrl-Q                                             | Block comment/uncomment                                          |
-| Ctrl-Shft-Q                                        | Stream comment                                                   |
+| Ctrl-Shft-Q                                        | Stream comment (not implemented in KWrite)                       |
 | Ctrl-Shft-T                                        | Copy current line to clipboard                                   |
 | Ctrl-P                                             | Print                                                            |
 | Alt-F4                                             | Exit                                                             |
-|                                                    | Split Lines (not implemented in KWrite))                         |
+|                                                    | Split Lines (not implemented in KWrite)                          |
 | Ctrl-J                                             | Join Lines                                                       |
 |                                                    | Text Direction RTL (not implemented in KWrite)                   |
 |                                                    | Text Direction LTR (not implemented in KWrite)                   |
 | F1                                                 | About                                                            |
+
+Original table taken [here](http://www.keyxl.com/aaacd5a/43/Notepad-Plus-text-editor-software-keyboard-shortcuts.htm).
